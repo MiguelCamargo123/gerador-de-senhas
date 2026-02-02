@@ -3,12 +3,20 @@ import random
 # numeros = random.randint(1, 6)
 
 # resultado = str(numeros)
-senha = []
+numeros = []
 
-# senha.append(resultado)
+# numeros.append(resultado)
 
 for i in range(6):
     a = random.randrange(1, 6)
-    senha.append(a)
-print(senha)
+    numeros.append(a)
+print(numeros)
 
+senha = ''
+
+for i in numeros:
+    senha = senha + str(i)
+    # print(senha)
+
+
+print(senha)
