@@ -10,7 +10,6 @@ numeros = []
 for i in range(6):
     a = random.randrange(1, 6)
     numeros.append(a)
-print(numeros)
 
 senha = ''
 
