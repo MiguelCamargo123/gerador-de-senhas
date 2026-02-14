@@ -1,29 +1,27 @@
-# gerador-de-senhas
-Um projeto simples criado em Python que gera uma senha aleatória de 6 digitos.
-Este projeto foi criado para servir de treino de lógica de programação
+# Password Generator
 
-## 🧮 Funcionalidades
+A simple project created in Python that generates a random 6-digit password. This project was created to practice programming logic.
 
-- Gerar senhas aleatórias de 6 digitos
+## Features
+- Generate random 6-digit passwords
 
-## 🧑‍💻 Como usar o programa
+## How to use the program
 
-### Pré-requisitos
-- Python 3 instalado no computador
+### Requirements
+- Python 3 installed on the computer
 
-### Execução
-
-1. Clone o repositório:
+### Execution
+1. Clone the repository:
    ```bash
-   git clone https://github.com/MiguelCamargo123/gerador-de-senhas.git
+   git clone https://github.com/MiguelCamargo123/gerador-de-senhas
 
-2. Entre na pasta do projeto:
+2. Enter the project folder:
    ```bash
    cd gerador-de-senhas
 
-3. Execute o código:
+3. Run the code:
    ```bash
    python gerador_senhas.py
-   
-### 📦Versão
-- v1.0.0 - Primeira versão estável da calculadora
+
+## Version
+- v1.0.0 – First stable version of the password generator
